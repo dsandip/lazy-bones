@@ -1,3 +1,3 @@
 # lazy-bones
 
-random text in a random file
+modified random text for checking out pushing changes to a new branch
